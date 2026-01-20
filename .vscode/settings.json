@@ -5,7 +5,6 @@
     "python.analysis.completeFunctionParens": true,
     "python.analysis.inlayHints.functionReturnTypes": true,
     "python.analysis.inlayHints.variableTypes": true,
-    
     // Enhanced IntelliSense
     "editor.quickSuggestions": {
         "other": true,
@@ -18,7 +17,6 @@
     "editor.tabCompletion": "on",
     "editor.wordBasedSuggestions": "matchingDocuments",
     "editor.parameterHints.enabled": true,
-    
     // Suggest widget behavior
     "editor.suggest.snippetsPreventQuickSuggestions": false,
     "editor.suggest.showWords": true,
@@ -29,7 +27,6 @@
     "editor.suggest.showVariables": true,
     "editor.suggest.showKeywords": true,
     "editor.suggest.localityBonus": true,
-    
     // IntelliCode AI-assisted recommendations
     "editor.inlineSuggest.enabled": true,
     "python.analysis.indexing": true
